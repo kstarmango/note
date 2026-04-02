@@ -35,6 +35,7 @@ export default defineConfig({
           text: 'Web',
           items: [
             { text: 'TypeScript 기초', link: '/Web/typescript-기초' },
+            { text: 'Obsidian → VitePress 자동 배포 세팅기', link: '/Web/obsidian-to-blog' },
             { text: 'Quartz + Obsidian 세팅', link: '/Web/quartz-obsidian-setup' },
           ]
         }
