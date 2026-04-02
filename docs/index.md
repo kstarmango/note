@@ -3,8 +3,6 @@ layout: home
 
 hero:
   name: DevNote
-  text: ''
-  tagline: ''
   actions:
     - theme: brand
       text: 노트 보기
