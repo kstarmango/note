@@ -34,8 +34,10 @@ export default defineConfig({
         {
           text: 'Web',
           items: [
-            { text: 'TypeScript 기초', link: '/Web/typescript-기초' },
+            { text: '왜 Obsidian인가', link: '/Web/why-obsidian' },
+            { text: 'Claude Code 스킬로 문서화 자동화', link: '/Web/claude-code-skills' },
             { text: 'Obsidian → VitePress 자동 배포 세팅기', link: '/Web/obsidian-to-blog' },
+            { text: 'TypeScript 기초', link: '/Web/typescript-기초' },
             { text: 'Quartz + Obsidian 세팅', link: '/Web/quartz-obsidian-setup' },
           ]
         }
