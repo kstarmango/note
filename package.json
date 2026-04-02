@@ -1,0 +1,13 @@
+{
+  "name": "devnote",
+  "version": "1.0.0",
+  "description": "DevNote - 개발 공부 노트",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
