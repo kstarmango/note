@@ -25,6 +25,8 @@ export default defineConfig({
           text: 'Flutter',
           items: [
             { text: 'Riverpod 상태관리', link: '/Flutter/riverpod-상태관리' },
+            { text: '앱 아키텍처 패턴', link: '/Flutter/flutter-architecture' },
+            { text: 'Dart 비동기 프로그래밍', link: '/Flutter/dart-async' },
           ]
         }
       ],
@@ -32,6 +34,7 @@ export default defineConfig({
         {
           text: 'Web',
           items: [
+            { text: 'TypeScript 기초', link: '/Web/typescript-기초' },
             { text: 'Quartz + Obsidian 세팅', link: '/Web/quartz-obsidian-setup' },
           ]
         }
@@ -41,6 +44,8 @@ export default defineConfig({
           text: 'CS',
           items: [
             { text: 'HTTP 기초', link: '/CS/http-기초' },
+            { text: 'REST API 설계 원칙', link: '/CS/rest-api' },
+            { text: 'Git 핵심 명령어', link: '/CS/git-기초' },
           ]
         }
       ],
