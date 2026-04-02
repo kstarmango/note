@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'DevNote',
-  description: '개발 공부 노트',
+  description: 'DevNote',
   lang: 'ko-KR',
   base: '/note/',
   srcDir: './docs',

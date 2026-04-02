@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: DevNote
-  text: 개발 공부 노트
-  tagline: 배운 것을 기록합니다.
+  text: ''
+  tagline: ''
   actions:
     - theme: brand
       text: 노트 보기
