@@ -5,6 +5,8 @@ export default defineConfig({
   description: '개발 공부 노트',
   lang: 'ko-KR',
   base: '/note/',
+  srcDir: './docs',
+  outDir: './.vitepress/dist',
 
   themeConfig: {
     logo: null,
